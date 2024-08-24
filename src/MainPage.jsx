@@ -424,6 +424,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -432,6 +433,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -440,6 +442,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -448,6 +451,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -456,6 +460,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -464,6 +469,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/bask%C4%B1l%C4%B1-ma%C4%9Faza-po%C5%9Feti-atlet-1.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
                 <div className="col-md-6">
@@ -472,6 +478,7 @@ const MainPage = () => {
                       src="https://baskiliposetimalat.com/wp-content/uploads/2019/09/baskili-hisir-poset-kulplu.jpg"
                       alt="baskılı poşet"
                     />
+                    baskılı poşet
                   </a>
                 </div>
               </div>
